@@ -1,6 +1,6 @@
 # ScalaML
 
-A machine library for Scala, mostly for learning purposes.  
+A machine learning library for Scala, mostly for learning purposes.  
 To add the library to your project, add: 
 ```
 externalResolvers += "ScalaML packages" at "https://maven.pkg.github.com/Osrepnay/scalaml"
